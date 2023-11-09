@@ -1,0 +1,10 @@
+[
+    {
+        "todo_id": 1,
+        "title": "Go relax",
+        "description": " play some games",
+        "create_date": "2023-11-08T21:16:48",
+        "status": "Pending",
+        "completion_date": "None"
+    }
+]
